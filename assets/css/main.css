@@ -2110,6 +2110,7 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
+				height: 230.55px;
 			}
 
 		.image.avatar {
@@ -2572,10 +2573,10 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
-		background-position: top left,							top left;
-		background-repeat: repeat,								no-repeat;
-		background-size: auto,								150%;
+		background-image: url("images/overlay.png"), url("../../images/sun.jpg");
+		background-position: center, right;
+		background-repeat: repeat,								repeat;
+		background-size: auto,								auto;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
